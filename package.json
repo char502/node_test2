@@ -18,5 +18,9 @@
   "homepage": "https://github.com/char502/node_test2#readme",
   "dependencies": {
     "moment": "^2.22.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.10.1",
+    "webpack-cli": "^2.1.4"
   }
 }
